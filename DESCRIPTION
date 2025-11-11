@@ -1,7 +1,7 @@
 Package: SurvivalTests
 Type: Package
 Title: Survival Tests for One-Way Layout
-Version: 0.9
+Version: 1.0
 Date: 2024-01-16
 Depends: R (>= 3.2.0), weibullness
 Imports: stats, ggplot2
